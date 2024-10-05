@@ -1,0 +1,12 @@
+
+
+{
+"name":"VBMP_Imagery/VBMP2002_WGS",
+"title":"VBMP_Imagery/VBMP2002_WGS",
+"type":"Map Service",
+"typeKeywords":["ArcGIS Server","Service","Map Service"],
+"description":"<DIV STYLE=\"text-align:Left;\"><DIV><P><SPAN>Orthoimagery collected in Spring 2002 by the VBMP program for the eastern half of Virginia. The imagery is displayed in true coloe (RED, GREEN, BLUE). The spatial reference is WGS 1984 Web Mercator (Auxiliary Sphere). The imagery is tiled at 12 levels from 1:4,622,324 to 1:2,257. The imagery was collected to meet ASPRS Class 1 orthoimagery standards. Most areas were collected at a 2-ft ground sample distance (GSD), with some urban areas upgraded to 1-ft and 6-inch GSD. - \"Any determination of topography or contours, or any depiction of physical improvements, property lines or boundaries is for general information only and shall not be used for the design, modification, or construction of improvements to real property or for flood plain determination.\"  Subsection C of § 54.1-402<\/SPAN><\/P><\/DIV><\/DIV>",
+"extent":[[-9329334.301557597,-8376123.765248795],[4227966.101968263,4934774.272451266]],
+
+"url":"https://gismaps.vdem.virginia.gov/arcgis/rest/services/VBMP_Imagery/VBMP2002_WGS/MapServer"
+}
